@@ -45,7 +45,6 @@ The model is built using TensorFlow's Keras API with a `Sequential` CNN architec
 
 ## 📈 Results & Evaluation
 
-> *Metrics were printed but not clearly stored in variables — please update if final values are known.*
 
 - Training/Validation accuracy shown via plots
 - Sample predictions include both `correct` and `incorrect` classifications
